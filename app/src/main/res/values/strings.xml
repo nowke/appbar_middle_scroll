@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppBarMiddleLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="longText1">
+        People no longer need to sit at a desk to get the benefits of technology. We can now build experiences that work seamlessly across different contexts.
+        By removing abstract barriers, such as what functionality resides on what device, our users can focus more on what they\'re doing and less on how to
+        start doing it.
+    </string>
+    <string name="longText2"> <![CDATA[
+        Join this session for an in-depth look at the platform components involved in building a single user experience across a phone, watch, TV, and car. We\'ll
+        cover both the design philosophy and technical details while connecting all the peices using the Google platform. (Note: Tune into this live
+        stream on CHANNEL 3.) ]]>
+    </string>
+    <string name="speakerName">
+        Timothy Jordan, Google
+    </string>
+    <string name="titleSpeakers">Speakers</string>
+    <string name="speakerBio">
+        Timothy Jordan leads Scalable Developer Advocacy for Ubiquitous Computing at Google which includes Android Wear, Google Glass, Android TV, Google Cast,
+        and Android Auto. His goal is to help developers be successful with Google platforms, particularly with services spanning multiple devices. He loves
+        solving problems and believes in improving life through science and art.
+    </string>
+    <string name="event_title">Ubiquitous Computing with Google</string>
+    <string name="event_time"><![CDATA[ 29 May 2:00–3:00 pm in Room 1 (L2)  ]]></string>
+</resources>
